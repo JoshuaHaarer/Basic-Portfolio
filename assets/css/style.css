@@ -1,12 +1,11 @@
 body {
     
 }
-#background {
-     background-position: 60px 20px 0px 20px
- }
 
+header {
+}
 
-#Joshua {
+#Name {
     float: left;
     background: #4aaaa5;
     color: white;
@@ -16,24 +15,24 @@ body {
     margin-left: 15%;
     margin-right: 60%;
 }
-
-
-.vertical_line {
-    height:20px; 
-    width: 1px; 
-    background-color: #000;
+.Links {
+    
+    background: white;
+    color: black;
+    text-align: center;
+    margin-left: 60%;
+    margin-right: 15%;
+    text-decoration: none;
+}
+#concrete{
+    clear: both; 
+    width: 100%;
+    height: 100%;
+    
 }
 
-#about_me {
-    clear: both;
-    float: left;
-    background: #4aaaa5;
-    color: white;
-    padding: 20px;
-    margin-left: 15%;
-    margin-right: 60%;
-}
-
-.Self_Portrait {
-    float: left;
+#Profile {
+    image-orientation: 270turn;
+    width: 200px;
+    height: 200px;
 }
